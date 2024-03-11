@@ -7,3 +7,7 @@ The Heat Map Tool is used to generate heatmaps for pre-processed data in the for
 # Running heatmaptool
 
 Text here
+
+# Acknowledgements 
+
+Dr. David Bernick (UCSC) - TSVreader
