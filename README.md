@@ -5,7 +5,7 @@ Gene Expression Heatmap Tool (Developed for UCSC BME-160)
 The Heat Map Tool is used to generate heatmaps for pre-processed data in the form of a tab separated text file. 
 
 # Running heatmaptool
-Text here
+Quick kind of explanation on how to run the tool
 
 # Acknowledgements 
 Dr. David Bernick (UCSC) - TSVreader
