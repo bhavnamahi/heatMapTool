@@ -10,6 +10,6 @@ Quick kind of explanation on how to run the tool
 # Acknowledgements 
 Dr. David Bernick (UCSC) - TSVreader
 
-# More Information
+# From the Creators
 Project Presentation: https://docs.google.com/presentation/d/1-0XLzpBCIC0Vlrad1KpUzddQMG5pUpMVwSKTYu1px6A/edit?usp=sharing
 Project Report: https://docs.google.com/document/d/1b20teRT3hwaOq0Uu5fxLqieKzpSzDW34BWp42YyDRzc/edit?usp=sharing
