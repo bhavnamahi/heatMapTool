@@ -1,5 +1,5 @@
 # heatMapTool
-Gene Expression Heatmap Tool (Developed for UCSC BME-160)
+Gene Expression Heatmap Tool (Developed for UCSC BME-160) by Noah Williams and Bhavna Mahi
 
 # Description 
 The Heat Map Tool is used to generate heatmaps for pre-processed data in the form of a tab separated text file. 
