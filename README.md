@@ -12,6 +12,7 @@ Quick explanation of 3D modeling code and how to use
 
 # Acknowledgements 
 Dr. David Bernick (UCSC) - TSVreader
+
 Reto Stamm (UCSC) - 3D Model
 
 # From the Creators
