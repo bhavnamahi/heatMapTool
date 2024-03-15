@@ -5,8 +5,8 @@ Gene Expression Heatmap Tool (Developed for UCSC BME-160) by Noah Williams (UCSC
 The Heat Map Tool is a Python tool used to generate heatmaps for pre-processed data in the form of a tab separated text file and create a 3D model of your heatmap.
 
 # Running heatMapTool
-You can run heatMapTool.py in virutally any Python IDE, such as [PyCharm](https://www.jetbrains.com/pycharm/). Just open the file in your IDE, and make sure to change minimum values and threshold values for your probes and probe display. 
-```
+You can run heatMapTool.py in virutally any Python IDE, such as [PyCharm](https://www.jetbrains.com/pycharm/). Just open the file in your IDE, and make sure to change minimum values and threshold values for your probes and probe display:
+```python
 def dataFilter(data, probeList, minValue={enter your value}, tickThresh={enter your value})
 ```
 Be sure to also change the directory to your own that contains your sample data:
