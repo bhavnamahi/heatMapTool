@@ -10,10 +10,10 @@ You can run heatMapTool.py in virutally any Python IDE, such as [PyCharm](https:
 def dataFilter(data, probeList, minValue={enter your value}, tickThresh={enter your value})
 ```
 Be sure to also change the directory to your own that contains your sample data:
-'''
+```
 os.chdir('/path/to/your/data/directory')
 path = os.listdir('/path/to/your/data/directory')
-'''
+```
 
 # 3D Modeling
 Developed by Noah Williams (UCSC '25)
