@@ -1,5 +1,5 @@
 # heatMapTool
-Gene Expression Heatmap Tool (Developed for UCSC BME-160) by Noah Williams (UCSC '25) and Bhavna Mahi (UCSC '25)
+Gene Expression Heatmap Tool (Developed for UCSC BME-160) by [Noah Williams](https://www.linkedin.com/in/nmuwilliams/) (UCSC '25) and [Bhavna Mahi](https://www.linkedin.com/in/bhavnamahi/) (UCSC '25)
 
 # Description 
 The Heat Map Tool is a Python tool used to generate heatmaps for pre-processed data in the form of a tab separated text file and create a 3D model of your heatmap.
